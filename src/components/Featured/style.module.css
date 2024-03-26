@@ -1,0 +1,101 @@
+h2.sectionHeading2 {
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    font-size: 70px;
+    /* margin-left: 10%; */
+    padding-top: 70px;
+    padding-bottom: 10px;
+    text-shadow: 2px 2px 4px rgb(156, 153, 153);
+}
+.collection_Wrapper {
+    min-height: 850px;
+    background-repeat: no-repeat;
+    padding: 0px 90px;
+    margin: 100px 0px;
+    background-image: url("../../assests/images/Group1.png");
+    background-position: center;
+}
+
+p.sectionHeading1 {
+    font-size: 14px;
+    color: black;
+    font-family: Poppins, sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+}
+h6.sectionHeading2 {
+    font-family: Poppins, sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+}
+h2 span{
+    color: #FF5403;  
+}
+
+img.mainCardsImage {
+    width: 60%;
+    margin-left: 40px;
+}
+.mainCard {
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 20px 40px;
+    margin: 18px;
+    box-sizing: border-box;
+    height: 85%;
+    width: 90%;
+    
+}
+
+/* .mainCard {
+    background: #ffffff;
+    border-radius: 10px;
+    height: 100%;
+    padding: 18px 22px;
+    margin: 10px 50px; 
+       
+} */
+
+.collectPara {
+    margin-bottom: 60px;
+    margin-left: 10%;
+    color: black;
+    font-family: Poppins, sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    text-shadow: 0 0 black;
+}
+
+.ovalButton {
+    background-color: #c9c9c9;
+    color: rgb(0, 0, 0);
+    padding: 8px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 50px 12px;
+    margin-top: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 70px;
+    height: 50px;
+    width: 200px;
+    overflow: hidden;
+    border: none;
+    justify-content: center;
+
+}
+
+.ovalButton:hover {
+    background-color: #FF5403;
+    color: white;
+    transform: scale(1.1);
+}
+
+section.collection-wrapper {
+    margin: 100px 0px;
+}
+
+
