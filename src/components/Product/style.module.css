@@ -1,0 +1,80 @@
+h2.sectionHeading {
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    font-size: 70px;
+    /* margin-left: 10%; */
+    padding-top: 12px;
+    padding-bottom: 10px;
+    text-shadow: 2px 2px 4px rgb(156, 153, 153);
+}
+
+img.mainCardsImage {
+    width: 100%;
+}
+
+.mainCard {
+    background: #F3EFEC;
+    border-radius: 10px;
+    height: 100%;
+    padding: 18px 22px;
+    margin: 10px 50px; 
+       
+}
+
+.collectPara {
+    margin-bottom: 60px;
+    /* margin-left: 10%; */
+    color: black;
+    font-family: Poppins, sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    /* text-shadow: 0 0 black; */
+}
+
+.ovalButton {
+    background-color: #c9c9c9;
+    color: rgb(0, 0, 0);
+    padding: 8px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 50px 12px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 70px;
+    height: 50px;
+    width: 200px;
+    overflow: hidden;
+    border: none;
+    justify-content: center;
+}
+.collection_Wrapper {
+    min-height: 850px;
+    background-repeat: no-repeat;
+    padding: 0px 90px;
+    margin: 100px 0px;
+    background-position: center;
+}
+.ovalButton:hover {
+    background-color: #FF5403;
+    color: white;
+    transform: scale(1.1);
+}
+
+section.collection-wrapper {
+    margin: 100px 0px;
+}
+
+.mainCard p {
+    font-family: Poppins, sans-serif;
+    font-size: 14;
+}
+
+.mainCard h6 {
+    font-family: Poppins, sans-serif;
+    font-size: 22px;
+    font-weight: 800;
+}
+

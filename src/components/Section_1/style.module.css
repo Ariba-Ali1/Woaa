@@ -1,0 +1,55 @@
+h2.sectionHeading{
+    font-family: Poppins, sans-serif;  
+    font-weight: 600;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 150px;
+}
+h2 span{
+    color: #FF5403;  
+}
+
+.Maincards {
+    background: #F3EFEC;
+    border-radius: 10px;
+    text-align: center;
+    /* padding-top: 120px; */
+    padding: 100px 20px; 
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+
+}
+.Maincards h3 {
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    width: 60%;
+    height: 70px;
+    margin: 0 auto; 
+}
+a.themeButton {
+   position: relative;
+    background-color: #FF5403;
+   background-color: #DBD7D4;
+   color: #000000;
+   text-decoration: none;
+   padding: 13px 30px;
+   border-radius: 45px;
+   font-family: Poppins, sans-serif;
+   transition-duration: .4s;
+}
+a.themeButton:hover {
+   background-color: #FF5403;
+   color: #fff;
+   font-weight:700;
+}
+.cards-row{
+    /* margin-top: 200px !important; */
+}
+img.Maincardimage {
+    height: 270px;
+    margin-top: -55%;
+}

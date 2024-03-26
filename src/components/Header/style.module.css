@@ -1,0 +1,40 @@
+.first-sec {
+    padding: 12px 0px;
+    height: 170px;
+  }
+/* ul.nav__list {
+    display: flex;
+} */
+
+.navMenu{
+    width: 100%;
+    padding-top: 50px;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+}
+
+.navMenu a {
+    text-decoration: none;
+    color: inherit; 
+    cursor: pointer; 
+    font-weight: normal;
+}
+.navMenu a:hover {
+    color: rgb(255, 96, 4); 
+    font-weight: bold;
+}
+
+
+ul.navList {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+}
+.cartIcon {
+    float: right;
+    margin-right: 50px;
+    margin-top: 30px;
+}
